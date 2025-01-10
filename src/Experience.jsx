@@ -144,7 +144,7 @@ export default function Experience() {
                             width={2.5}
                             height={1.65}
                             intensity={65}
-                            color={'#001b28'}
+                            color={'#8e619f'}
                             rotation={[0.1, Math.PI, 0]}
                             position={[0, 0.55, -1.15]}
                         />
@@ -160,7 +160,7 @@ export default function Experience() {
                                 rotation-x={isMobile ? 0 : -0.256}
                                 portal={document.body} // Render outside the canvas for better performance
                                 >
-                                    <iframe src="https://oskarfitmindset.com/" />
+                                    <iframe src="https://eksplodemedia.com/" />
                             </Html>
 
                         </primitive>
