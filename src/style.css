@@ -4,7 +4,7 @@ body {
     padding: 0;
     width: 100%;
     height: 127%; /* Allows for scrolling */
-    background: #001b28;
+    background: #002640;
     overflow-x: hidden; /* Prevent horizontal scrolling */
 }
 
