@@ -54,7 +54,7 @@ export default function Experience() {
     return (
         <>
             <Environment preset="city" />
-            <color args={['#001b28']} attach="background" />
+            <color args={['#002640']} attach="background" />
 
             {isMobile ? (
                 // Mobile-specific PresentationControls
